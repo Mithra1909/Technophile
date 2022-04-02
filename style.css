@@ -1,0 +1,24 @@
+element.style{
+	:;}
+
+.line-content {
+    padding: 0px 5px !important;
+}
+
+td {
+    display: table-cell;
+    vertical-align: baseline;
+    padding: 0px !important;
+}
+
+h1 {text-align: center;}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: pre;
+    font-size: initial;
+    font-family: monospace;
+    tab-size: 4;
+    border-spacing: 0px;
+}
